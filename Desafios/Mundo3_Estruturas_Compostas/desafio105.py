@@ -47,3 +47,4 @@ def notas(*nota, sit=False):
 # PROGRAMA PRINCIPAL
 notas(5.5, 9.5, 10, 6.5, sit=True)
 # help(notas)
+
