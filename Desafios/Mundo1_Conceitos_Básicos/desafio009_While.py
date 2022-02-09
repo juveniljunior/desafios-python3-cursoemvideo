@@ -1,4 +1,7 @@
-# TABUADA DE MULTIPLICAÇÃO
+"""
+Exercício Python 009:
+Faça um programa que leia um número Inteiro qualquer e mostre na tela a sua tabuada.
+"""
 
 num = int(input('\33[37mDigite um número para ver a sua tabuada: \33[m'))
 contador = 0

@@ -1,4 +1,7 @@
-# ALGORITMO QUE MOSTRA A TABUADA DE UM NUMERO INSERIDO
+"""
+Exercício Python 009:
+Faça um programa que leia um número Inteiro qualquer e mostre na tela a sua tabuada.
+"""
 
 n = int(input('\33[37mDigite um número: '))
 print(12*"\33[33m_")
