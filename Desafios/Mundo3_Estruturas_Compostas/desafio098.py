@@ -17,6 +17,7 @@ def contador(inicio, fim, passo):
     print(f'Contando de {inicio} até {fim} de {passo} em {passo}')
     sleep(1.2)
     c = inicio
+
     if inicio < fim:
         for num in range(inicio, fim+1, passo):
             print(f'{num} ', end='')
