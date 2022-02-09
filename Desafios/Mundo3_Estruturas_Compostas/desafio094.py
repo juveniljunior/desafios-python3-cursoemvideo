@@ -8,6 +8,7 @@ B) A média de idade C) Uma lista com as mulheres D) Uma lista de pessoas com id
 listadepessoas = list()
 somadeidades = 0
 pessoa = dict()
+
 while True:
     pessoa['nome'] = str(input('Nome: ')).title()
     pessoa['sexo'] = ' '
