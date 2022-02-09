@@ -1,4 +1,10 @@
 # SEQUÊNCIA DE FIBONACCI v1.0
+"""
+Exercício Python 063:
+Escreva um programa que leia um número N inteiro qualquer e mostre na tela os N primeiros elementos
+de uma Sequência de Fibonacci.
+"""
+
 print('======= SEQUÊNCIA DE FIBONACCI =======')
 n = int(input('DIGITE QUANTOS TERMOS VOCÊ QUER MOSTRAR: '))  # numero de vezes que é mostrado a sequência
 anterior = 0  # primeiro termo da sequência
