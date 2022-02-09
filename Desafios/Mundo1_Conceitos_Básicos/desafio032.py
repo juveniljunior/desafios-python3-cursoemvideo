@@ -1,3 +1,8 @@
+"""
+Exercício Python 032:
+Faça um programa que leia um ano qualquer e mostre se ele é bissexto.
+"""
+
 from datetime import date
 ano = int(input('\033[37mQue ano você quer analisar? Digite 0 para analisar o ano atual: \033[m'))
 if ano == 0:
