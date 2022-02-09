@@ -1,5 +1,9 @@
 # JOGO DA ADVINHAÇÃO 1.0
-# grupo https://chat.whatsapp.com/1wBTYJiFjcXGVWqW8XL8C8
+"""Exercício Python 028:
+Escreva um programa que faça o computador "pensar" em um número inteiro entre 0 e 5 e peça
+para o usuário tentar descobrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o
+usuário venceu ou perdeu. """
+
 from random import randint
 from time import sleep
 numcomp = randint(0, 5)
