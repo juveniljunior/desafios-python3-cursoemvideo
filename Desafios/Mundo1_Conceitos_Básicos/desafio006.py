@@ -1,4 +1,7 @@
-# DOBRO, TRIPLO E RAIZ QUADRADA
+"""
+Exercício Python 006:
+Crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadrada.
+"""
 
 n = int(input('\33[32mDigite um número: \33[m'))
 d = 2*n
