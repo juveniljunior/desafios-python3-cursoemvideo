@@ -22,3 +22,4 @@ def voto(anodenascimento):
 # PROGRAMA PRINCIPAL
 resvoto = voto(int(input("Em que ano você nasceu? ")))
 print(f'\33[36;1m{resvoto}\33[m')
+
