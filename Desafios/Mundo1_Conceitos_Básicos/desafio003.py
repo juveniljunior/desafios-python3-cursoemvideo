@@ -1,4 +1,6 @@
-# SOMANDO DOIS NUMEROS
+"""
+Exercício Python 003: Crie um programa que leia dois números e mostre a soma entre eles.
+"""
 
 n1 = int(input('\33[32mPrimeiro número: '))
 n2 = int(input('Segundo número: '))
