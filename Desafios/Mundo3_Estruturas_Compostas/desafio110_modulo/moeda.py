@@ -30,3 +30,4 @@ def resumo(num, porcentaum=10, porcentdim=20):
           f'\n{porcentaum:<3}{"% de aumento:":<17}{aumentar(num, porcentaum, True)}'
           f'\n{porcentdim:<3}{"% de redução:":<17}{diminuir(num, porcentdim, True)}'
           f'\n{"=+="*10}')
+
