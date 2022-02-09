@@ -1,4 +1,7 @@
-# TOCANDO UM MP3
+"""
+Exercício Python 021:
+Faça um programa em Python que abra e reproduza o áudio de um arquivo MP3.
+"""
 '''import webbrowser
 webbrowser.open('C:/Users/JUVENIL/PycharmProjects/Cursoemvideo/Desafios/WhatsApp Audio 2021 05 23 at 154339.mp3')'''
 
