@@ -1,4 +1,7 @@
-# HIPOTENUSA DE UM TRIÂNGULO
+"""Exercício Python 017:
+Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um
+triângulo retângulo. Calcule e mostre o comprimento da hipotenusa. """
+
 from math import hypot
 catopost = float(input('\33[1;34mDigite o cumprimento do cateto oposto: '))
 catadj = float(input('\33[1;35mDigite o comprimento do cateto adjacente: '))
