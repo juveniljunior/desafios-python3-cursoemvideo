@@ -12,6 +12,7 @@ def escreva(txt):
 
 
 # PROGRAMA PRINCIPAL
+
 escreva('JUVENIL JUNIOR')
 escreva('18 YEARS')
 escreva('FUTURE PROGRAMMER')
