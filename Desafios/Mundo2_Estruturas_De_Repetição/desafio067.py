@@ -1,4 +1,10 @@
 # TABUADA v3.0
+"""
+Exercício Python 067:
+Faça um programa que mostre a tabuada de vários números, um de cada vez, para cada valor digitado
+pelo usuário. O programa será interrompido quando o número solicitado for negativo.
+"""
+
 contador = num = 0
 while True:
     num = int(input('Você quer ver a tabuada de que número? '))
