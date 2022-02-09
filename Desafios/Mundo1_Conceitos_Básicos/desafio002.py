@@ -1,7 +1,4 @@
-"""
-Exercício Python 002:
-Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.
-"""
+# FORMATANDO DATA DE NASCIMENTO
 
 dia = input('\33[36mQue dia você nasceu? ')
 mes = input('Que mês você nasceu? ')
