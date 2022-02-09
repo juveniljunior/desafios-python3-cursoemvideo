@@ -6,6 +6,7 @@ visualização de detalhes do aproveitamento de cada jogador.
 
 listatodososjog = list()
 listadegols = list()
+
 while True:
     totaldegols = 0
     fichajogador = {'nome': str(input(f'{"-"*45}\nNome do jogador: ')).title()}
