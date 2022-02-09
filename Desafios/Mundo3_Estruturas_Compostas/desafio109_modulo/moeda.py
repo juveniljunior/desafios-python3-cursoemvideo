@@ -21,3 +21,4 @@ def diminuir(num, porcentagem, formatacao=False):
 
 def moeda(num):
     return f'R${num:.2f}'.replace('.', ',')
+

@@ -20,3 +20,4 @@ def diminuir(num=0, porcentagem=0):
 
 def moeda(num, moeda='R$'):
     return f'{moeda}{num:.2f}'.replace('.', ',')
+
