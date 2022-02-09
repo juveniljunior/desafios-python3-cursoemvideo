@@ -25,6 +25,6 @@ def leiaFloat(num):
     return num
 
 
-nint = leiaInt('Digite um Inteiro: ')
-nreal = leiaFloat('Digite um Real: ')
+nint = leiaInt('Digite um Nº Inteiro: ')
+nreal = leiaFloat('Digite um Nº Real: ')
 print(f'Você digitou o número inteiro {nint} e o número real {nreal}.')
