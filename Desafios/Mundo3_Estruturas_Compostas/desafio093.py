@@ -9,6 +9,7 @@ aprovjog = {'nome': str(input('Nome do jogador: ')).title()}
 totalp = int(input(f'Quantas partidas {aprovjog["nome"]} jogou? '))
 golsporpart = list()
 totalgols = 0
+
 for p in range(0, totalp):
     golsporpart.append(int(input(f'    Quantos gols pa partida {p}? ')))
     totalgols += golsporpart[p]
