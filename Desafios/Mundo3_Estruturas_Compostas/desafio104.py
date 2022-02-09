@@ -27,3 +27,4 @@ def leiaInt(num):
 n = leiaInt('Digite um número: ')
 print(f'Você acabou de digitar o número {n}!')
 print('\33[37;1m-=\33[m' * 30)
+
