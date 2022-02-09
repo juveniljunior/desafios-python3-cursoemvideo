@@ -34,3 +34,4 @@ while True:
     else:
         sistajuda(funcmet)
 print('\33[36;1m\nATÉ LOGO!')
+
