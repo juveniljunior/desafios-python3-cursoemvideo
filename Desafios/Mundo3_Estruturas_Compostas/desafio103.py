@@ -14,6 +14,7 @@ def ficha(nome='<desconhecido>', gols=0):
 print('\33[1;37m=\33[m' * 45)
 n = str(input('Nome do jogador: ')).title()
 g = str(input('Número de gols: '))
+
 if g.isnumeric():
     g = int(g)
 else:
