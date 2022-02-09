@@ -1,4 +1,8 @@
-# REAJUSTE SALARIAL
+"""
+Exercício Python 013:
+Faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento.
+"""
+
 salario = float(input('\33[1;33mDigite o valor atual do seu salário(R$): \33[m'))
 novo = salario+(salario*15/100)
 economia = salario*15/100
