@@ -5,7 +5,7 @@ Crie uma função chamada leiaDinheiro() que seja capaz de funcionar como a fun�
 dados para aceitar apenas valores que seja monetários.
 """
 
-# from desafio112.utilidadescev import dado, moeda
+"""from desafio112.utilidadescev import dado, moeda"""
 from utilidadescev import dado, moeda
 p = dado.leiaDinheiro('Digite o preço: R$')
 moeda.resumo(p, 80, 35)
