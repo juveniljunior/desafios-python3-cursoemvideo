@@ -21,6 +21,6 @@ def checkInternet():
 
 
 if checkInternet():
-    print('Internet OK!')
+    print('Internet com conexão OK!')
 else:
     print('Internet NÃO conectada!')
