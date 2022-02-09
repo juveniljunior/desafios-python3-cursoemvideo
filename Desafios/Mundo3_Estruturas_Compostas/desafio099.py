@@ -20,6 +20,8 @@ def maior(* listnumeros):
     print(f'Foram informados \33[97;1m{len(listnumeros)}\33[m números ao todo.')
     print(f'O maior valor informado foi \33[97;1m{mai}\33[m.')
 
+
+# PROGRAMA PRINCIPAL
 maior(2, 9, 4, 5, 7, 1)
 maior(4, 7, 0)
 maior(6)
