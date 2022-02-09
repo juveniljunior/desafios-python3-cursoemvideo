@@ -1,4 +1,7 @@
-# CONVERSOR DE METROS EM OUTRAS MEDIDAS DE DISTÂNCIA
+"""
+Exercício Python 008:
+Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
+"""
 
 m = float(input('\33[31mEscreva o valor em metros: '))
 km = m/1000
