@@ -9,6 +9,7 @@ from datetime import date
 anoatual = date.today().year
 ficha = {'nome': str(input('Nome: ')).title(), 'idade': anoatual - int(input('Ano de Nascimento: ')),
          'ctps': int(input('Carteira de Trabalho (0 não tem): '))}
+
 if ficha['ctps'] > 0:
     ficha['contratação'] = int(input('Ano de Contratação: '))
     ficha['salario'] = float(input('Salário: R$ '))
