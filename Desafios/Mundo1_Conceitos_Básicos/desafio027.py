@@ -1,4 +1,6 @@
-# PRIMEIRO E ULTÍMO NOME DE UMA PESSOA
+"""Exercício Python 027:
+Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o
+último nome separadamente. """
 
 nome = input('\033[37mDigite seu nome completo: ').strip()
 nomed = nome.split()
