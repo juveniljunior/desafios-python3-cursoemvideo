@@ -1,4 +1,7 @@
-# DETECTOR DE PALÍNDROMO
+"""
+Exercício Python 053:
+Crie um programa que leia uma frase qualquer e diga se ela é um palíndromo, desconsiderando os espaços.
+"""
 """frase = str(input('Digite um frase: ')).replace(' ', '').strip().upper()
 frase_inv = frase[::-1]
 print(f'Frase normal: {frase}')
