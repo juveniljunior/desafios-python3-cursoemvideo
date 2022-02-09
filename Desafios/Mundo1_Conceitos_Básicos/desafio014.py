@@ -1,4 +1,8 @@
-# CONVERSOR DE TEMPERATURA
+"""
+Exercício Python 014:
+Escreva um programa que converta uma temperatura digitando em graus Celsius e converta para graus Fahrenheit.
+"""
+
 c = float(input('\33[33mInforme a temperetura em °C: '))
 f = c*1.8+32
 k = c+273
