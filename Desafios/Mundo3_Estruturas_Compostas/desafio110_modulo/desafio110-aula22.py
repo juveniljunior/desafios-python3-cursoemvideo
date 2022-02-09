@@ -9,3 +9,4 @@ p = float(input('Digite o preço: R$'))
 pa = int(input('Qual a porcentagem de aumento? '))
 pd = int(input('Qual a porcentagem de diminuição? '))
 moeda.resumo(p, pa, pd)
+
