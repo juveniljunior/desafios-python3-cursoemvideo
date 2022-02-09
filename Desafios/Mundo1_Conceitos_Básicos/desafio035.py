@@ -1,3 +1,9 @@
+"""
+Exercício Python 035:
+Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não
+formar um triângulo
+"""
+
 print('\033[1;37m-=-' * 8)
 print('\033[1;35m''ANALISADOR DE TRIÂNGULOS\033[m')
 print('\033[1;37m-=-' * 8)
