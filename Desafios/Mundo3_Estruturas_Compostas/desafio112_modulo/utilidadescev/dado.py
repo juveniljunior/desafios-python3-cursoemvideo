@@ -13,6 +13,7 @@ def leiaDinheiro(valor):
             contneg = 1
             valorneg = valor
             valor = valor.replace('-', '')
+
     if contneg == 1:
         if valorneg[1:] == valor:
             valor = valorneg
