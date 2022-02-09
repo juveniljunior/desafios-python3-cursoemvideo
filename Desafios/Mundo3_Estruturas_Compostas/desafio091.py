@@ -6,6 +6,7 @@ sabendo que o vencedor tirou o maior número no dado.
 
 SOLUÇÃO UTLIZANDO O MÓDULO OPERATOR(ITEMGETTER)"""
 
+
 from random import randint
 from time import sleep
 from operator import itemgetter
