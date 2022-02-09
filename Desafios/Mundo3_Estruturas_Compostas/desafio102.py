@@ -29,3 +29,4 @@ def fatorial(num, show=False):
 # PROGRAMA PRINCIPAL
 fatorial(6, True)
 #  help(fatorial)
+
